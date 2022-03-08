@@ -1,0 +1,11 @@
+1. Explore different options for the following Unix Commands using man: at, banner, 
+batch, bc, cal, cat, cd, cmp, comm, chmod, chown, chgrp, cp, cron, cut, date, dd, 
+diff, echo, finger, find, ftp, head, kill, lock, ln, ls, lp, lpstat, man, mesg, mkdir, more, 
+mv, nl, nice, passwd, pr, paste, ping, ps, pwd, rcp, rlogin, rmdir, rm, rsh, split, sort, 
+tail, talk, tar, telnet, touch, tput, tr, tty, uname, uniq, wc, who, write.
+2. Write shell script for Pattern matching using wild cards, escaping, quoting, 
+iterations, and if then else constructs.
+3. Write shell script for searching for various patterns using grep, pr, head, tail, cut, 
+paste, sort, uniq, and tr.
+4. Write shell script for pattern matching using awk, and sed utilities.
+5. Write shell script for backup using tar and cpio.
