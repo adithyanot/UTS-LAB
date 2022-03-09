@@ -9,3 +9,4 @@ iterations, and if then else constructs.
 paste, sort, uniq, and tr.
 4. Write shell script for pattern matching using awk, and sed utilities.
 5. Write shell script for backup using tar and cpio.
+6.make script with dependecies for compiling a static link library or dynamic link library and building an executable to link to such libraries
